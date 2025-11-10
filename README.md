@@ -61,3 +61,5 @@ The ROC-AUC of 0.82 further confirms the model’s robust discrimination between
 - **Python 3.11** — For model orchestration and evaluation  
 
 ---
+## Data source:
+https://www.kaggle.com/datasets/mahletbegashaw/diabetes-binary-health-indicators-brfss2015-csv
